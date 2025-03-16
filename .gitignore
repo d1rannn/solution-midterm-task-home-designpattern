@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Git ###
+.gitignore
+
+### IntelliJ IDEA Specific ###
+*.iml
+.idea/
